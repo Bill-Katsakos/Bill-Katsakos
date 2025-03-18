@@ -1,4 +1,4 @@
-<div id="header" align="center">
+<div id="header" align="center"> 
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGUzd21xa24yZWU0aHJncnNpM3VhMTgyOHd2anFyNWo2aXJ1b2piYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/5Akl9i8YiMbl5RFvGO/giphy.gif" alt="Coding Animation" width="200"/>
   
   <h1>Full Stack Web Developer - Tech Enthusiast </h1>
